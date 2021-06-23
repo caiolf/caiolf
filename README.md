@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Caio Ferraresi 
+## Hey! I'm Caio Ferraresi 
  <div>
   <a href="https://github.com/caiolf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiolf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
