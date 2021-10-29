@@ -12,7 +12,7 @@
   <img align="center" alt="caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="caio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="caio-C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="caio-yoda" src="https://media.tenor.com/images/b6b0fe37770f0ccd963008d52e658eae/tenor.gif">
+  <img align="right" alt="caio-yoda" height="150" style="border-radius:50px" src="https://media.tenor.com/images/b6b0fe37770f0ccd963008d52e658eae/tenor.gif">
 </div>
 
  ##
