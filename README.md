@@ -1,5 +1,5 @@
 ## Hey! I'm Caio Ferraresi 
- <div>
+ <div align="center">
   <a href="https://github.com/caiolf">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=caiolf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolf&layout=compact&langs_count=16&theme=dracula"/>
@@ -16,6 +16,7 @@
 </div>
 
  ##
+ 
 <div> 
   <a href="https://www.instagram.com/caio.lferraresi/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: caio.lferraresi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
